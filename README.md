@@ -1,5 +1,8 @@
 # LIKELION AIS 8th FINAL-PROJECT
 ![슬라이드1](https://user-images.githubusercontent.com/124337933/237030435-a9bb8d38-5790-4849-8aab-0b361de1a158.JPG)
+
+<br> 상세 페이지 예시) <br>
+
 ![프레젠테이션1](https://github.com/hapvpy/Recipe-Recommendation-Chatbot/assets/124337933/4a1f671d-34c4-4c6e-addd-1794b9b76fa6)
 
 ## 3️⃣ 조이름은 최강록으로 하겠습니다. 근데 이제 바질을 곁들인
