@@ -1,7 +1,7 @@
 # LIKELION AIS 8th FINAL-PROJECT
 ![슬라이드1](https://user-images.githubusercontent.com/124337933/237030435-a9bb8d38-5790-4849-8aab-0b361de1a158.JPG)
 # 결과물
-![프레젠테이션1](https://github.com/hapvpy/Recipe-Recommendation-Chatbot/assets/124337933/4a1f671d-34c4-4c6e-addd-1794b9b76fa6)
+![프레젠테이션1](https://github.com/hapvpy/Recipe-Recommendation-Chatbot/assets/124337933/fa50bc09-7989-4dd4-b4c0-c84147b2ac1e)
 
 <br>
 
